@@ -1,0 +1,13 @@
+*{
+    /* margin: 0; */
+    /* padding: 0; */
+    /* box-sizing: border-box; */
+}
+.dm li{
+    list-style: none;
+    padding: 6px;
+}
+.img1{
+    width: 82px;
+    height: 59px;
+}
